@@ -6,6 +6,7 @@ A modern, responsive restaurant website built with Next.js, featuring user authe
 
 This is a full-featured restaurant web application that provides customers with an intuitive platform to explore menu items, learn about the restaurant, make reservations, and manage their accounts. Built with modern web technologies, it offers a seamless experience across all devices.
 
+Project link: https://guro-restarurant.vercel.app/home
 ## Setup & Installation Instructions
 
 ### Prerequisites
