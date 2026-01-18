@@ -6,7 +6,7 @@ const Page = () => {
     return (
         <div className=''>
             
-           <LoginForms className="px-10"></LoginForms>
+           <LoginForms className="px-10 "></LoginForms>
            
            
         </div>

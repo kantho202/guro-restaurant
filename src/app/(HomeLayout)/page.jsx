@@ -9,7 +9,7 @@ const page = () => {
         <div>
 
             <Banner></Banner>
-            <div className='px-10 pt-20 space-y-30'>
+            <div className='px- pt-20 space-y-30'>
                 <Restaurant></Restaurant>
                 <Menu></Menu>
                 <Berger></Berger>

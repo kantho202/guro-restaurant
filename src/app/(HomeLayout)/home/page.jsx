@@ -12,7 +12,7 @@ const page = () => {
         <div>
 
             <Banner></Banner>
-            <div className='px-10 pt-20 space-y-30'>
+            <div className='px-5 lg:px-10 pt-20 space-y-30'>
                 <Restaurant></Restaurant>
                 <AboutSection></AboutSection>
                 <Menu></Menu>

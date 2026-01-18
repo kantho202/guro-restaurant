@@ -24,13 +24,13 @@ const LoginForms = () => {
   
       }
   return (
-    <form onSubmit={handleLogIn} className="lg:hero   ">
+    <form onSubmit={handleLogIn} className="lg:hero  min-h-screen ">
                 <div className="lg:hero-content  flex-col lg:flex-row-reverse min-h-screen px-5">
           
 
-                    <div className="card lg:w-xl shrink-0 shadow-2xl border border-gray-200">
-                        <div className="card-body">
-                            <fieldset className="fieldset">
+                    <div className="card lg:w-xl shrink-0 shadow-2xl border  border-gray-200">
+                        <div className="card-body ">
+                            <fieldset className="fieldset ">
                                 <h1 className='text-center text-2xl font-semibold py-7'>Log in to your Account</h1>
                                 {/* <p className='text-center'>
                                     Get started with our app, just create an account and enjoy the experience.
